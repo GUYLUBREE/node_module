@@ -1,0 +1,60 @@
+{
+  "_from": "kotz-api",
+  "_id": "kotz-api@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-4ZQPgagnBdH9eekei/t0pRXKhx2w6gFqtgTyKhuOfN6KEpLYOpYmApqTJeESGnxNeXf9flaX5B5hL9dl9eMQNg==",
+  "_location": "/kotz-api",
+  "_phantomChildren": {
+    "follow-redirects": "1.14.6"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "kotz-api",
+    "name": "kotz-api",
+    "escapedName": "kotz-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/kotz-api/-/kotz-api-1.0.0.tgz",
+  "_shasum": "5f225e15b5221d7348267d7aca6508c91dd14359",
+  "_spec": "kotz-api",
+  "_where": "C:\\WaBot-MD",
+  "author": {
+    "name": "Kotzyy"
+  },
+  "bugs": {
+    "url": "https://github.com/Kotzyy/kotz-api/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "deprecated": false,
+  "description": "package module kotz api",
+  "directories": {
+    "lib": "plugin"
+  },
+  "homepage": "https://github.com/Kotzyy-api#readme",
+  "keywords": [
+    "Module Api"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "kotz-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotzyy/kotz-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
